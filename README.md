@@ -1,1 +1,1 @@
-# Synapplix_OData_Service
+# Synapplix OData Service

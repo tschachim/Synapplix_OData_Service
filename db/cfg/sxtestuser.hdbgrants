@@ -1,0 +1,20 @@
+{
+  "CROSS_SCHEMA_SXTESTUSER": {
+     "object_owner": {
+		"schema_privileges":[
+        {
+          "reference":"SXTESTUSER",
+          "privileges_with_grant_option":["SELECT", "SELECT METADATA"]
+        }
+      ]
+     },
+    "application_user" : {
+      "schema_privileges":[
+        {
+          "reference":"SXTESTUSER",
+          "privileges_with_grant_option":["SELECT", "SELECT METADATA"]
+        }
+      ]
+    }
+  }
+}

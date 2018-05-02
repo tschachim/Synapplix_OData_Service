@@ -1,0 +1,8 @@
+{
+  "TestTableSynonym": {
+    "target": {
+      "object": "TESTTABLE",
+      "schema": "SXTESTUSER"
+    }
+  }
+}
